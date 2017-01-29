@@ -1,0 +1,21 @@
+20 20
+oooooooooooooooooooo
+o..........ooo.....o
+o.oooo.o.o.ooo..oooo
+o..soo.o...........o
+o.oo...ooooooooooo.o
+ooooooooo......o.o.o
+ooo.oooooo......oo.o
+o..................o
+oooo.ooooooooooooooo
+oo...ooooooooooooooo
+oo.o.ooooooooooooooo
+oo.o.ooooooooooooooo
+oo.o.ooooooooooooooo
+oo.o...............o
+oo.ooo.ooo.oooo.oooo
+oo.ooo.ooo.oeoo.oooo
+oo.ooo.ooo.o.oo...oo
+oo.ooo.ooo.o.oo.oooo
+oo.ooo..........oooo
+oooooooooooooooooooo
